@@ -48,6 +48,8 @@ namespace MicrocreditCalculator
             { 
                 int x = Int32.Parse(Bet.Text);
             }
+
+
             
         }
     }
